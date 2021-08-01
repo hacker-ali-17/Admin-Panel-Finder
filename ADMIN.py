@@ -1,6 +1,4 @@
-﻿#youtube : https://www.youtube.com/channel/UCbWZCMrWItL_mGp24Ks2Bjw
-# fb : LEBANESE HACKER 
-# github : https://github.com/alexhacker313
+# github : https://github.com/hacker-ali-17
 import urllib.request
 import os
 import time
@@ -33,7 +31,6 @@ print('''
 ███████████▓▓█▓▓▓▓███▓╬╬╬╬╬╬╬╬╬▓████████
 ██████████████▓▓▓███▓▓╬╬╬╬╬╬╬╬██████████
 ███████████████▓▓▓██▓▓╬╬╬╬╬╬▓███████████﻿
-Made By  Hacker 
 ''')
 def slowprint(s):
     for c in s + '\n' :
@@ -45,10 +42,10 @@ time.sleep(5)
 os.system('clear')
 print('''
 )
-print(" \033[95m YOU MUST WRITE PROTOCOLE HTTPS:// or HTTP:// ex: http://www.ex.com , ex :https://www.ex.com ")
-print(" \033[95m YOU MUST WRITE / AT THE END OF THE SITE EX: www.example.com/")
+print("")
+print("")
 print("                                                                       ")
-url = input("\033[97m enter the website : ")
+url = input("")
 
 print ("start : ")
 print("                                                                                        ")
